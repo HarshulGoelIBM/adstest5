@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
+  <name>datetimerule</name>
+  <uuid>aaa70814-e4f8-4ec9-bbde-8a4732f210b2</uuid>
+  <locale>en_US</locale>
+  <definition><![CDATA[if
+    Input is 11/25/2020 9:00:00 PM +0000
+then
+    set decision to 11/25/2020 8:00:00 PM +0000 ;
+else
+    set decision to 11/25/2020 10:00:00 PM +0000;
+
+]]></definition>
+</ilog.rules.studio.model.brl:ActionRule>

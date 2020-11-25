@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ibm.rules.studio.model.decisionservice:Operation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" rulesetName="operation" targetRuleProjectName="datemodel">
+  <name>datemodel</name>
+  <uuid>fd651df9-0e09-45ff-86fb-1ec36ff7f10d</uuid>
+  <decisionModel href="../rules/decisionModel.dmo#f41c3bd4-2563-4724-8832-6791da926ea2"/>
+  <targetRuleProject href="../../datemodel#7cc7f55b-3683-44f3-8a89-3f25655415bc"/>
+</com.ibm.rules.studio.model.decisionservice:Operation>
